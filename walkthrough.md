@@ -35,8 +35,9 @@
 
 ### Natalie's room:
 - Mirror -> Motivate yourself (+1 Effort)
+- Bed -> (+2 Arousal)
 - Closet -> Take dirty panty (Received dirty panty)
-- Phone -> Inventory -> Smell Natalie's dirty panty
+- Phone -> Inventory -> Smell Natalie's dirty panty (+10 Arousal)
 
 ---
 
