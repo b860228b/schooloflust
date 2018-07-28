@@ -48,7 +48,7 @@
 ---
 
 ### Mom's room:
-- Search her closet (Received rusty key)
+- Search her closet (Received rusty key) [You can't get the quest 'Mysterious shed' if you take the key now. You can go to visit the garage door first.]
 - Nightstand -> Read diary
 
 ---
