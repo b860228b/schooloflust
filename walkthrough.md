@@ -89,7 +89,7 @@
 - Examine the backyard garage door -> Unlock (-Rusty key)
 - Search the dumpster left of your house (Received BDSM tape)
 - Search the trash can in the park (Received BDSM tape)
-- Search the mailbox in front of the church (Received cock ring)
+- ~~Search the mailbox in front of the church (Received cock ring)~~[Not Mount]
 - Optional: Try setting: "Phone -> Options -> Sync monitor" to off and walk around to see if you get less lag
   - If you get more lag or don't notice a difference change it back to Auto
 - Exit and travel to Harfort
