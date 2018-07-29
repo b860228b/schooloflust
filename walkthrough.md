@@ -97,7 +97,7 @@
 ---
 
 ### Harfort:
-- Hi, I'm new. (+1 Charm)
+- Hi, I'm new. (+1 Charm, +1 Arousal)
 - Search the trash can left of the main doors (Received BDSM tape)
 
 ---
