@@ -109,7 +109,7 @@
 
 ---
 
-### Floor 2:
+### Floor 2:[If you want, the wreath next to the door of the principal's room can auto save.]
 - Take the teddy bear (Received teddy bear)
 - Enter the principal's office
 - Y-yes, my Queen! (+1 Romance)
